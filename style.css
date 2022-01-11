@@ -1,0 +1,34 @@
+.purple-color{
+    color: orangered;
+}
+body{
+    font-family: 'Amarante', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Newsreader', serif;
+}
+p{
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+    height: 30px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 4%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(233, 15, 179),rgb(255, 130, 46));
+
+}
